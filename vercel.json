@@ -31,6 +31,7 @@
         "APP_ROUTES_CACHE": "/tmp/routes.php",
         "APP_SERVICES_CACHE": "/tmp/services.php",
         "VIEW_COMPILED_PATH": "/tmp",
+        "LOG_EMERGENCY_PATH": "/tmp/laravel-emergency.log",
 
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
