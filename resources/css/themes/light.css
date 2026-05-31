@@ -1,0 +1,22 @@
+/* resources/css/themes/light.css */
+:root {
+    /* Userweb Colors */
+    --orange: #F4521E;
+    --orange-light: #FF7A47;
+    --cream: #FDFCFB; /* Cleaner light cream */
+    --dark: #0F172A; /* Slate 900 */
+    --mid: #334155; /* Slate 700 */
+    --muted: #64748B; /* Slate 500 */
+
+    /* Admin Colors */
+    --admin-bg-primary: #F8FAFC; /* Slate 50 - Cleaner neutral background */
+    --admin-bg-secondary: #ffffff;
+    --admin-border: #E2E8F0; /* Slate 200 - Subtle borders */
+    --admin-text-primary: #1e293b; /* Slate 800 */
+    --admin-text-secondary: #64748B; /* Slate 500 */
+    --admin-card-bg: #ffffff;
+    --admin-sidebar-bg: #ffffff;
+    --admin-aside-active-bg: #F4511E; /* Primary Orange */
+    --admin-aside-active-text: #ffffff;
+    --admin-accent: #F4511E;
+}

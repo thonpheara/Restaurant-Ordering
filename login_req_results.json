@@ -1,0 +1,108 @@
+{
+  "generated_at": "2026-04-04T00:51:02.149202Z",
+  "worker_id": 1,
+  "workers": 1,
+  "report": {
+    "total": 10,
+    "success": 0,
+    "failed": 10,
+    "duration_sec": 1.0,
+    "rps": 9.96,
+    "avg_us": 0.91,
+    "min_ms": 0.44,
+    "max_ms": 1.75,
+    "error_rate": 100.0
+  },
+  "requests": [
+    {
+      "index": 1,
+      "username": "g2xl68iw",
+      "status": 0,
+      "response_time": 1.75,
+      "error": "Cannot connect to host 127.0.0.1:8000 ssl:default [Connect call failed ('127.0.0.1', 8000)]",
+      "timestamp": "2026-04-04T00:51:01.147694Z",
+      "worker": 1
+    },
+    {
+      "index": 2,
+      "username": "3gwbfde7",
+      "status": 0,
+      "response_time": 1.29,
+      "error": "Cannot connect to host 127.0.0.1:8000 ssl:default [Connect call failed ('127.0.0.1', 8000)]",
+      "timestamp": "2026-04-04T00:51:01.147730Z",
+      "worker": 1
+    },
+    {
+      "index": 3,
+      "username": "a9cxlgop",
+      "status": 0,
+      "response_time": 1.13,
+      "error": "Cannot connect to host 127.0.0.1:8000 ssl:default [Connect call failed ('127.0.0.1', 8000)]",
+      "timestamp": "2026-04-04T00:51:01.147753Z",
+      "worker": 1
+    },
+    {
+      "index": 4,
+      "username": "ayc8toq7",
+      "status": 0,
+      "response_time": 1.02,
+      "error": "Cannot connect to host 127.0.0.1:8000 ssl:default [Connect call failed ('127.0.0.1', 8000)]",
+      "timestamp": "2026-04-04T00:51:01.147774Z",
+      "worker": 1
+    },
+    {
+      "index": 5,
+      "username": "xp7tfjdt",
+      "status": 0,
+      "response_time": 0.92,
+      "error": "Cannot connect to host 127.0.0.1:8000 ssl:default [Connect call failed ('127.0.0.1', 8000)]",
+      "timestamp": "2026-04-04T00:51:01.147795Z",
+      "worker": 1
+    },
+    {
+      "index": 6,
+      "username": "xwivkeby",
+      "status": 0,
+      "response_time": 0.78,
+      "error": "Cannot connect to host 127.0.0.1:8000 ssl:default [Connect call failed ('127.0.0.1', 8000)]",
+      "timestamp": "2026-04-04T00:51:01.147815Z",
+      "worker": 1
+    },
+    {
+      "index": 7,
+      "username": "htyxbxm9",
+      "status": 0,
+      "response_time": 0.69,
+      "error": "Cannot connect to host 127.0.0.1:8000 ssl:default [Connect call failed ('127.0.0.1', 8000)]",
+      "timestamp": "2026-04-04T00:51:01.147835Z",
+      "worker": 1
+    },
+    {
+      "index": 8,
+      "username": "tgb39y2h",
+      "status": 0,
+      "response_time": 0.6,
+      "error": "Cannot connect to host 127.0.0.1:8000 ssl:default [Connect call failed ('127.0.0.1', 8000)]",
+      "timestamp": "2026-04-04T00:51:01.147854Z",
+      "worker": 1
+    },
+    {
+      "index": 9,
+      "username": "hl5k45s0",
+      "status": 0,
+      "response_time": 0.52,
+      "error": "Cannot connect to host 127.0.0.1:8000 ssl:default [Connect call failed ('127.0.0.1', 8000)]",
+      "timestamp": "2026-04-04T00:51:01.147873Z",
+      "worker": 1
+    },
+    {
+      "index": 10,
+      "username": "hfn7e8iq",
+      "status": 0,
+      "response_time": 0.44,
+      "error": "Cannot connect to host 127.0.0.1:8000 ssl:default [Connect call failed ('127.0.0.1', 8000)]",
+      "timestamp": "2026-04-04T00:51:01.147892Z",
+      "worker": 1
+    }
+  ]
+}

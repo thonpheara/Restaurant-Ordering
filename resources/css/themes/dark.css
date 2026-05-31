@@ -1,0 +1,22 @@
+/* resources/css/themes/dark.css */
+.dark {
+    /* Userweb Colors */
+    --orange: #FF7A47;
+    --orange-light: #FF9A73;
+    --cream: #121212;
+    --dark: #FFFFFF;
+    --mid: #E0E0E0;
+    --muted: #A0A0A0;
+
+    /* Admin Colors */
+    --admin-bg-primary: #121212;
+    --admin-bg-secondary: #1A1A1A;
+    --admin-border: #333333;
+    --admin-text-primary: #FFFFFF;
+    --admin-text-secondary: #BBBBBB;
+    --admin-card-bg: #1A1A1A;
+    --admin-sidebar-bg: #1A1A1A;
+    --admin-aside-active-bg: #EE6D3C;
+    --admin-aside-active-text: #FFFFFF;
+    --admin-accent: #EE6D3C;
+}
