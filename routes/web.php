@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\layouts\UserwebController;
+use App\Http\Controllers\Layouts\UserwebController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\Admin\Login\LogoutController;
 use App\Http\Controllers\Admin\Dashboard\DashboardController;
