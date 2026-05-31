@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use App\Models\Order;
+use Illuminate\Support\Facades\URL;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\View;
@@ -14,6 +15,10 @@ class AppServiceProvider extends ServiceProvider
 {
     public function boot(): void
     {
+        if (config('app.env') === 'production') {
+            URL::forceScheme('https');
+        }
+
         try {
             $timezone = Setting::get('timezone', config('app.timezone', 'Asia/Phnom_Penh'));
         } catch (Throwable) {
