@@ -22,8 +22,8 @@
     "outputDirectory": "public",
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "false",
-        "APP_URL": "https://your-app-name.vercel.app",
+        "APP_DEBUG": "true",
+        "APP_URL": "https://restaurant-ordering-green.vercel.app",
         "APP_KEY": "base64:HvbBu0n7pGT5iHUNMjaLLrC6RCd1ZFiZkdNn3DrdPHA=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
