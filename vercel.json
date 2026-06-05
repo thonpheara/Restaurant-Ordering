@@ -34,7 +34,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://restaurant-ordering-green.vercel.app",
-        "APP_KEY": "base64:p12v0s/4NlXm05Qc/sF6W5hR4W9d6Z/9s0X1W4r1W8Q=",
+        "APP_KEY": "base64:+Yqqfi1FeueesQh1SGj+Szpmosie/qm2vsma4fSCgZU=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
@@ -47,9 +47,9 @@
         "SESSION_DRIVER": "cookie",
         "DB_CONNECTION": "mysql",
         "DB_HOST": "acela.proxy.rlwy.net",
-        "DB_PORT": "40830",
+        "DB_PORT": "51627",
         "DB_DATABASE": "railway",
         "DB_USERNAME": "root",
-        "DB_PASSWORD": "HVsFKqMiZnoeCDTIgspquWEJuTspETGa"
+        "DB_PASSWORD": "rFOYYlMcgrAyfVqipYNzYZSKrSmoyGos"
     }
 }
