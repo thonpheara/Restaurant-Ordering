@@ -1,6 +1,2 @@
 /vendor
-/.git
-.env
-.DS_Store
 /node_modules
-.env.backup
